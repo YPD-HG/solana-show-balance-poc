@@ -17,6 +17,8 @@ A practical way to simulate testnet/mainnet wallet operations locally.
 
 ---
 
+![Screen Shot 2025-06-05 at 8 24 56 PM](https://github.com/user-attachments/assets/2fc66ab0-9ed7-4e12-8d27-97d6becd7d94)
+
 ## 📦 Prerequisites
 
 - Node.js (>= 16)
